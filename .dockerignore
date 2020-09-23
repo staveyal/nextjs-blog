@@ -1,0 +1,5 @@
+# Node module files
+node_modules
+
+# NextJS cache
+.next
